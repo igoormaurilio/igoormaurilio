@@ -11,7 +11,7 @@ In the second semester, I am also studying Systems Development at the Senai Suí
 
 
 
-/*tools
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
