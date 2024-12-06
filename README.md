@@ -11,6 +11,7 @@ In the second semester, I am also studying Systems Development at the Senai Suí
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igoormaurilio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
 
 
 
@@ -27,15 +28,15 @@ In the second semester, I am also studying Systems Development at the Senai Suí
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
+
 <div align="left">
   
   <a href="igoor.maurilio@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 
 
-###
-
-###
 
 ###
 <div align="center">
