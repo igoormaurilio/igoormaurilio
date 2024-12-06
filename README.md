@@ -2,11 +2,7 @@
 Currently studying the second year of high school at the SESI institute (Social Service of Industry).
 In the second semester, I am also studying Systems Development at the Senai Suíço-Brasileira "Paulo Ernesto Tolle".
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/igoormaurilio/count.svg?"  />
-</div>
 
-###
 
 ###
 
@@ -33,6 +29,9 @@ In the second semester, I am also studying Systems Development at the Senai Suí
 </div>
 
 ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/igoormaurilio/count.svg?"  />
+</div>
 
 
 
