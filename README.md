@@ -27,7 +27,6 @@ In the second semester, I am also studying Systems Development at the Senai Suí
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
 
 <div align="left">
   
