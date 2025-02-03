@@ -36,7 +36,6 @@ In the second semester, I am also studying Systems Development at the Senai Suí
 
 
 
-###
 <div align="center">
   <br><p align="center"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Killuadevz}/count.svg" /></p> 
