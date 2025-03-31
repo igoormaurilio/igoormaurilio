@@ -1,6 +1,6 @@
 ## Hi 👋, i am Igor Maurilio! I'm 17 years old, i live São Paulo, Brasil 
-Currently studying the second year of high school at the SESI institute (Social Service of Industry).
-In the second semester, I am also studying Systems Development at the Senai Suíço-Brasileira "Paulo Ernesto Tolle".
+Currently studying the third year of high school at the SESI institute (Social Service of Industry).
+In the third semester, I am also studying Systems Development at the Senai Suíço-Brasileira "Paulo Ernesto Tolle".
 
 
 
