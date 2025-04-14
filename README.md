@@ -12,9 +12,9 @@ In the third semester, I am also studying Systems Development at the Senai Su√≠√
  
 
 ###
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
