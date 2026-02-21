@@ -1,43 +1,35 @@
-## Hi 👋, i am Igor Maurilio! I'm 17 years old, i live São Paulo, Brasil 
-Currently studying the third year of high school at the SESI institute (Social Service of Industry).
-In the third semester, I am also studying Systems Development at the Senai Suíço-Brasileira "Paulo Ernesto Tolle".
+# Olá, eu sou Igor Maurílio 👋
 
+![Banner](https://img.shields.io/badge/Status-Estudante-blue)  
 
+Tenho 18 anos e moro em São Paulo, Brasil.  
 
-###
+🎓 **Formação:** Técnico em Desenvolvimento de Sistemas – SENAI Suíço-Brasileiro  
+📚 **Atualmente:** Faculdade de Inteligência e Análise de Dados – SENAI Suíço-Brasileiro  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igoormaurilio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igoormaurilio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
- 
+---
 
-###
-<h2 align="center">I code with</h2>
+## 💻 Sobre mim
+- Apaixonado por programação e novas tecnologias  
+- Explorando desenvolvimento web, back-end e análise de dados  
+- Transformando ideias em projetos práticos  
+- Sempre aprendendo e evoluindo 🚀  
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-</div>
+---
 
+## 🛠 Tecnologias & Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
+---
 
+## 📫 Contato
+- GitHub: [igoormaurilio](https://github.com/igoormaurilio)
+- Email: igoor.maurilio@gmail.com
+- Aberto a networking, aprendizado e oportunidades 💬  
 
-
-<div align="center">
-  <br><p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Killuadevz}/count.svg" /></p> 
-  <br>
-</div>
-
-
-
-
+---
